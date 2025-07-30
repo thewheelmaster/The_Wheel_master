@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/img/service/car-mechanic-changing-wheels-car.jpg",
+    "title": "Alloy Wheel Refurbishment",
+    "desp": "Restore your scratched, oxidized, or dull wheels back to showroom condition. We strip, clean, repair, and repaint to match your original or custom look."
+  },
+  {
+    "id": 2,
+    "img": "/assets/img/service/closeup-shot-mechanic-trying-fix-car-with-special-tools.jpg",
+    "title": "Crack or Bend Repair",
+    "desp": "Hit a pothole or curb? We use hydraulic straightening and welding methods to fix minor cracks and bends, ensuring safety and roadworthiness."
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/service/mechanic-working-car-shop.jpg",
+    "title": "CNC Diamond Cut Finish",
+    "desp": "Give your wheels that premium, mirror-like finish. Our computer-guided lathe ensures flawless precision and depth for modern alloy designs."
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/service/worker-repairing-car-side-view.jpg",
+    "title": "Wheel Straightening",
+    "desp": "Bent rims can cause vibrations and tire damage. We accurately straighten wheels to factory spec without compromising structure."
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/service/service_5.jpg",
+    "title": "Cosmetic Repair",
+    "desp": "From curb rash to deep scuffs, we sand, fill, and repaint affected areas to make the damage vanish completely."
+  }
+]
