@@ -37,7 +37,7 @@ const footerDataArray = [
     dataAosDelay: "150",
     address:
       "Behind Jeep Showroom, Sanathal Circle, Ahmedabad, Gujarat, 382210",
-    email: "thewheelmaster7@gmail.com",
+    email: "ravi@thewheelmaster.in",
   },
 ];
 

@@ -148,13 +148,13 @@ const HeroSlider = () => {
       </div>
       <div className="container">
         <div className="hero-contact-info">
-          <Link to="mailto:thewheelmaster7@gmail.com">
+          <Link to="mailto:ravi@thewheelmaster.in">
             <div className="d-flex align-items-center gap-2">
               <div className="heartbeat-icon">
                 <img src="/assets/img/icon/hero-email.svg" alt="..." />
               </div>
               <p className="ak-font-18 ak-white-color ak-semi-bold">
-                thewheelmaster7@gmail.com
+                ravi@thewheelmaster.in
               </p>
             </div>
           </Link>
