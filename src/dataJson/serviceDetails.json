@@ -1,407 +1,412 @@
 [
-    {
+  {
+    "id": 1,
+    "service_details": {
+      "title": "Alloy Wheel Restoration & Refurbishment – Bring Your Wheels Back to Life",
+      "description": "Over time, alloy wheels can lose their shine due to kerb damage, scratches, corrosion, or general wear and tear. Alloy wheel restoration (or refurbishment) is the process of repairing and refinishing your wheels to make them look as good as new—often at a fraction of the cost of buying replacements. At The Wheel Master, we use industry-leading equipment, premium materials, and skilled craftsmanship to restore your wheels to factory-fresh condition or even give them a custom new look.",
+
+      "services": [
+        {
+          "title": "Assessment",
+          "description": "Technicians evaluate the damage for a precise plan."
+        },
+        {
+          "title": "Quoting",
+          "description": "Transparent pricing and timelines provided upfront."
+        },
+        {
+          "title": "Restoration",
+          "description": "Following the systematic process under expert care."
+        },
+        {
+          "title": "Quality Check",
+          "description": "Final inspections ensure durability and finish."
+        },
+         {
+          "title": "Delivery",
+          "description": "Wheels are remounted, balanced, and returned; corporate pick-up/drop-off available on request."
+        }
+      ]
+    },
+    "similar_services": [
+      {
         "id": 1,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
-        },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
-    },
-    {
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
         "id": 2,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
-        },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
-    },
-    {
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
         "id": 3,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "service_details": {
+      "title": "AutoCare Solutions - Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
     },
-    {
-        "id": 4,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "service_details": {
+      "title": "AutoCare Solutions - Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
     },
-    {
-        "id": 5,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "service_details": {
+      "title": "AutoCare Solutions - Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
     },
-    {
-        "id": 6,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "service_details": {
+      "title": "AutoCare Solutions - Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Steering Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
     },
-    {
-        "id": 7,
-        "service_details": {
-            "title": "Heating Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "service_details": {
+      "title": "AutoCare Solutions - Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
     },
-    {
-        "id": 9,
-        "service_details": {
-            "title": "Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Steering Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "service_details": {
+      "title": "Heating Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
     },
-    {
-        "id": 8,
-        "service_details": {
-            "title": "AutoCare Solutions - Tire Services",
-            "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
-            "services": [
-                {
-                    "title": "Tire Rotation",
-                    "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
-                },
-                {
-                    "title": "Tire Balancing",
-                    "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
-                },
-                {
-                    "title": "Wheel Alignment",
-                    "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
-                },
-                {
-                    "title": "Tire Repair",
-                    "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
-                }
-            ]
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "service_details": {
+      "title": "Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
         },
-        "similar_services": [
-            {
-                "id": 1,
-                "title": "Diagnostic Services",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-1.svg"
-            },
-            {
-                "id": 2,
-                "title": "Routine Maintenance",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-2.svg"
-            },
-            {
-                "id": 3,
-                "title": "Brake System Repair",
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "icon": "/assets/img/icon/service-icon-3.svg"
-            }
-        ]
-    }
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
+    },
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "service_details": {
+      "title": "AutoCare Solutions - Tire Services",
+      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "services": [
+        {
+          "title": "Tire Rotation",
+          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+        },
+        {
+          "title": "Tire Balancing",
+          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+        },
+        {
+          "title": "Wheel Alignment",
+          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+        },
+        {
+          "title": "Tire Repair",
+          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+        }
+      ]
+    },
+    "similar_services": [
+      {
+        "id": 1,
+        "title": "Diagnostic Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Routine Maintenance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Brake System Repair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+      }
+    ]
+  }
 ]

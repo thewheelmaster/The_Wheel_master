@@ -19,7 +19,7 @@ const sliderData = [
     maintitle: "with Precision",
     desp: "Premium Alloy Wheel Restoration, Diamond Cut CNC Finish & More in Ahmedabad",
     url: "/appointment",
-    img: "/assets/img/hero/service-repair-profession-concept-indian-mechanic-car-service.jpg",
+    img: "/assets/img/ss/Screenshot (42).png",
   },
   // {
   //   id: 3,
@@ -34,7 +34,7 @@ const sliderData = [
     title: "Get Your Wheels Back to ",
     maintitle: "Showroom Finish",
     desp: "Contact Us And Book a Free Inspection Today!",
-    img: "/assets/img/hero/car-mechanic-trying-set-socket-auto-wheel.jpg",
+    img: "/assets/img/ss/Screenshot (43).png",
   },
 ];
 
@@ -148,13 +148,13 @@ const HeroSlider = () => {
       </div>
       <div className="container">
         <div className="hero-contact-info">
-          <Link to="mailto:thewheelmaster7@gmail.com">
+          <Link to="mailto:ravi@thewheelmaster.in">
             <div className="d-flex align-items-center gap-2">
               <div className="heartbeat-icon">
                 <img src="/assets/img/icon/hero-email.svg" alt="..." />
               </div>
               <p className="ak-font-18 ak-white-color ak-semi-bold">
-                thewheelmaster7@gmail.com
+                ravi@thewheelmaster.in
               </p>
             </div>
           </Link>

@@ -4,18 +4,18 @@ const tabContents = [
   {
     title: "Mission",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "To deliver premium-quality alloy wheel repair, refurbishment, and customization with precision, speed, and integrity—using advanced technology and expert craftsmanship to enhance both the performance and aesthetics of every vehicle we service.",
   },
   {
     title: "Vision",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. been the industry's stanLorem Ipsum has.",
+      "To become India’s most trusted and innovative alloy wheel service brand, recognized for redefining industry standards, delighting customers with exceptional results, and expanding our presence across major cities while maintaining a commitment to sustainability and excellence.",
   },
-  {
-    title: "History",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
-  },
+  // {
+  //   title: "History",
+  //   description:
+  //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+  // },
 ];
 
 const CompanyTab = () => {

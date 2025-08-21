@@ -11,6 +11,7 @@ import PricingTable from "../components/Pricing/PricingTable";
 import Blogs from "../components/Blog/Blogs";
 import Teams from "../components/Team/Teams";
 import AutoCounter from "../components/AutoCounter/AutoCounter";
+import BeforeAfterSlider from "../components/BeforeAfterFunctionality/BeforeAfterSlider";
 
 export default function Home() {
   return (
@@ -18,11 +19,12 @@ export default function Home() {
       <HeroSlider />
       {/* <ServiceProgres /> */}
       <ChooseUs />
+      <BeforeAfterSlider />
       <Services styleTypeTwo={true} />
       {/* <Videos videoId={"VcaAVWtP48A"} /> */}
-      <AutoCounter />
+      {/* <AutoCounter /> */}
       <TrustedClient />
-      <Testimonial />
+      {/* <Testimonial /> */}
       {/* <Teams /> */}
       {/* <PricingTable /> */}
       {/* <Blogs styleTypeTwo={true} /> */}
