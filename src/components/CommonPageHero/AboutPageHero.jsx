@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import commpagesbg from "/assets/img/bg/commpagesbg.jpg";
+import commpagesbg from "/assets/img/ss/Screenshot (46).png";
 
 const AboutPageHero = ({ title }) => {
   return (

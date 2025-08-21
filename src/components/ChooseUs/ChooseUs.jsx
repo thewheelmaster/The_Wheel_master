@@ -6,7 +6,7 @@ const chooseUsData = {
   bgText: "Feature",
   title: "why Choose The Wheel Master",
   desp: "With years of hands-on experience, our technicians are trained in handling every type of alloy wheel damage – from light scuffs to major cracks. We don’t just fix wheels; we restore them to perfection.",
-  img: "/assets/img/chooseus/choose-us.png",
+  img: "/assets/img/mechanic-repairing-car-tyre.jpg",
   list: [
     { title: "Expert Technicians: Skilled in high-precision alloy repairs" },
     { title: "Free Pickup & Drop: For Ahmedabad customers" },
@@ -30,6 +30,7 @@ const ChooseUs = () => {
               {list.map((item) => (
                 <h3
                   key={item.title}
+                  
                   className="ak-stroke-text hover-color-changes"
                 >
                   {item.title}
@@ -44,8 +45,7 @@ const ChooseUs = () => {
             data-aos="fade-up"
             data-aos-delay="150"
           >
-            <img src={img} alt="..." />
-            
+            <img width={500} src={img} alt="..." />
           </div>
         </div>
       </div>

@@ -2,16 +2,17 @@ import React, { useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 const imgList = [
-  "/assets/img/client/trusted-client_1.png",
-  "/assets/img/client/trusted-client_2.png",
-  "/assets/img/client/trusted-client_3.png",
-  "/assets/img/client/trusted-client_4.png",
-  "/assets/img/client/trusted-client_5.png",
-  "/assets/img/client/trusted-client_6.png",
-  "/assets/img/client/trusted-client_7.png",
-  "/assets/img/client/trusted-client_1.png",
-  "/assets/img/client/trusted-client_2.png",
-  "/assets/img/client/trusted-client_3.png",
+  "/assets/img/cars/pngwing.com (1).png",
+  "/assets/img/cars/pngwing.com (2).png",
+  "/assets/img/cars/pngwing.com (4).png",
+  "/assets/img/cars/pngwing.com (6).png",
+  "/assets/img/cars/pngwing.com (7).png",
+  "/assets/img/cars/pngwing.com (8).png",
+  "/assets/img/cars/pngwing.com (9).png",
+  "/assets/img/cars/pngwing.com (10).png",
+  "/assets/img/cars/pngwing.com (11).png",
+  "/assets/img/cars/pngwing.com (12).png",
+  "/assets/img/cars/pngwing.com (13).png",
 ];
 
 const TrustedClient = () => {

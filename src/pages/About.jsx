@@ -54,9 +54,9 @@ const About = () => {
         </div>
       </div>
       {/* <ChooseUs /> */}
-      <AutoCounter />
-      <Testimonial />
-      <Teams />
+      {/* <AutoCounter /> */}
+      {/* <Testimonial /> */}
+      {/* <Teams /> */}
       {/* <PricingTable /> */}
       <TrustedClient />
       <Cta />

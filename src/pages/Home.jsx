@@ -19,12 +19,12 @@ export default function Home() {
       <HeroSlider />
       {/* <ServiceProgres /> */}
       <ChooseUs />
-      <BeforeAfterSlider/>
+      <BeforeAfterSlider />
       <Services styleTypeTwo={true} />
       {/* <Videos videoId={"VcaAVWtP48A"} /> */}
-      <AutoCounter />
+      {/* <AutoCounter /> */}
       <TrustedClient />
-      <Testimonial />
+      {/* <Testimonial /> */}
       {/* <Teams /> */}
       {/* <PricingTable /> */}
       {/* <Blogs styleTypeTwo={true} /> */}
