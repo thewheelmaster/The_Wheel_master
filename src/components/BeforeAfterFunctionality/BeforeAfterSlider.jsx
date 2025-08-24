@@ -29,7 +29,7 @@ export default function BeforeAfterSlider() {
         title={"Move Slider to Experience Our Work"}
         desp={""}
       />
-      <div style={{ marginTop: "100px" }} className="d-flex gap-5 container">
+      <div style={{ marginTop: "100px" }} className="d-flex col-sm-5 gap-5 container">
         {arrayForMap.map((v, i) => {
           return (
             <ImgComparisonSlider>
