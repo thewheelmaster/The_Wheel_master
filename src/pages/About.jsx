@@ -53,6 +53,7 @@ const About = () => {
           ))}
         </div>
       </div>
+      
       {/* <ChooseUs /> */}
       {/* <AutoCounter /> */}
       {/* <Testimonial /> */}
