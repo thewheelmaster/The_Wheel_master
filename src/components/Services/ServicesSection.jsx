@@ -112,9 +112,6 @@ const ServicesSection = ({ styleTypeTwo }) => {
                         {item.title}
                       </Link>
                       <p className="card-desp">{item.desp}</p>
-                      <MoreBtn to={`/service-single/${item.id}`}>
-                        VIEW MORE
-                      </MoreBtn>
                     </div>
                   </div>
                 ))}

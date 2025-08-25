@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "img": "/assets/img/service/car-mechanic-changing-wheels-car.jpg",
+    "img": "/assets/img/service/close-up-man-cleaning-car-rims.jpg",
     "title": "Alloy Wheel Refurbishment",
     "desp": "Restore your scratched, oxidized, or dull wheels back to showroom condition. We strip, clean, repair, and repaint to match your original or custom look."
   },
   {
     "id": 2,
-    "img": "/assets/img/service/closeup-shot-mechanic-trying-fix-car-with-special-tools.jpg",
+    "img": "/assets/img/ss/Screenshot (44).png",
     "title": "Crack or Bend Repair",
     "desp": "Hit a pothole or curb? We use hydraulic straightening and welding methods to fix minor cracks and bends, ensuring safety and roadworthiness."
   },
   {
     "id": 3,
-    "img": "/assets/img/service/mechanic-working-car-shop.jpg",
+    "img": "/assets/img/ss/Screenshot (47).png",
     "title": "CNC Diamond Cut Finish",
     "desp": "Give your wheels that premium, mirror-like finish. Our computer-guided lathe ensures flawless precision and depth for modern alloy designs."
   },
   {
     "id": 4,
-    "img": "/assets/img/service/worker-repairing-car-side-view.jpg",
+    "img": "/assets/img/service/Wheel_straigthener_repair_process.webp",
     "title": "Wheel Straightening",
     "desp": "Bent rims can cause vibrations and tire damage. We accurately straighten wheels to factory spec without compromising structure."
   },
@@ -28,5 +28,29 @@
     "img": "/assets/img/service/service_5.jpg",
     "title": "Cosmetic Repair",
     "desp": "From curb rash to deep scuffs, we sand, fill, and repaint affected areas to make the damage vanish completely."
+  },
+  {
+    "id": 6,
+    "img": "/assets/img/service/service_3.jpg",
+    "title": "Wheel Personalization",
+    "desp": "Turn your wheels into a reflection of your style and personality. Contact The Wheel Master today to discuss wheel personalization options and give your car a truly unique look."
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/service/closeup-car-wheel-indoors-service-600nw-2103819539.webp",
+    "title": "Wheel Alignment/Balancing",
+    "desp": "Don’t let misaligned or unbalanced wheels compromise your drive. Contact The Wheel Master today to book a Wheel Alignment & Balancing Service and enjoy a smoother, safer, and more efficient driving experience."
+  },
+  {
+    "id": 8,
+    "img": "/assets/img/service/car-mechanic-trying-set-socket-auto-wheel (1).jpg",
+    "title": "Alloy wheel health check up and Service",
+    "desp": "Don’t wait for a small issue to turn into a costly problem. Book your Alloy Wheel Health Check-Up and Service today and ensure your wheels remain safe, reliable, and looking their best."
+  },
+  {
+    "id": 9,
+    "img": "/assets/img/service/mechanic-changing-brake-discs-car-service.jpg",
+    "title": "Break Calliper Painting",
+    "desp": "At The Wheel Master, we believe even the smallest details matter. With our Brake Caliper Painting service, your wheels won’t just perform – they’ll stand out."
   }
 ]
