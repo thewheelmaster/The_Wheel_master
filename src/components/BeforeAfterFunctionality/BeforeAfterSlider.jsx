@@ -1,5 +1,5 @@
 import { ImgComparisonSlider } from "@img-comparison-slider/react";
-import React, { useState, useRef } from "react";
+import React from "react";
 import SectionHeading from "../SectionHeading/SectionHeading";
 
 export default function BeforeAfterSlider() {
@@ -25,20 +25,43 @@ export default function BeforeAfterSlider() {
   return (
     <div style={{ marginTop: "100px" }} className="container">
       <SectionHeading
-        bgText={"before and after images"}
-        title={"Move Slider to Experience Our Work"}
-        desp={""}
+        bgText="before/after images"
+        title="Move Slider to Experience Our Work"
+        desp=""
       />
-      <div style={{ marginTop: "100px" }} className="d-flex col-sm-5 gap-5 container">
-        {arrayForMap.map((v, i) => {
-          return (
-            <ImgComparisonSlider>
-              <img slot="first" height={200} width={300} src={v.url1} />
-              <img slot="second" height={200} width={300} src={v.url2} />
-            </ImgComparisonSlider>
-          );
-        })}
+
+      <div className="before-after-wrapper">
+        {arrayForMap.map((v, i) => (
+          <ImgComparisonSlider key={i} className="slider-box">
+            <img slot="first" src={v.url1} alt={`before-${i}`} />
+            <img slot="second" src={v.url2} alt={`after-${i}`} />
+          </ImgComparisonSlider>
+        ))}
       </div>
+
+      <style jsx>{`
+        .before-after-wrapper {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+          gap: 30px;
+          margin-top: 60px;
+        }
+
+        .slider-box {
+          width: 100%;
+          height: auto;
+          max-width: 500px;
+          margin: 0 auto;
+        }
+
+        .slider-box img {
+          width: 100%;
+          height: auto;
+          object-fit: cover;
+          border-radius: 12px;
+          display: block;
+        }
+      `}</style>
     </div>
   );
 }
