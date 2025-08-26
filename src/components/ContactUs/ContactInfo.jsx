@@ -5,22 +5,22 @@ const contactData = [
   {
     label: "Mail",
     icon: "/assets/img/icon/email.svg",
-    info: ["example@email.com", "crasauto@email.com"],
+    info: ["ravi@thewheelmaster.in"],
   },
   {
     label: "Location",
     icon: "/assets/img/icon/location.svg",
-    info: ["901 N Pitt Str., Suite 170", "Alexandria, NY, USA"],
+    info: ["Behind Jeep Showroom, Sanathal Circle, Ahmedabad, Gujarat, 382210"],
   },
   {
     label: "Phone",
     icon: "/assets/img/icon/phone.svg",
-    info: ["(406) 555-0120"],
+    info: ["+919228468709"],
   },
   {
     label: "Open Hour",
     icon: "/assets/img/icon/date-icon.svg",
-    info: ["Sun - Thu: Open 24/7"],
+    info: ["Mon - Sun: Open 24/7"],
   },
 ];
 
@@ -35,7 +35,7 @@ const ContactInfo = () => {
               bgText={"Contact"}
               title={"Contact"}
               desp={
-                " There are many variations of passages of Lorem Ipsum available,but the majority have suffered alteration in some form."
+                "The Wheel Master Always welcomes enquiries, For Any kind of information regarding Alloy Wheels Services, simply fill out the form with your relevant details and we will contact you soon."
               }
             />
           </div>

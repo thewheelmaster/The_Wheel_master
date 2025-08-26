@@ -25,12 +25,11 @@ const ServicesDetailContent = ({ service }) => {
               />
               <div class="ak-height-50 ak-height-lg-50"></div>
             </div>
-            <div class="single-blog-list" data-aos="fade-up">
+            {/* <div class="single-blog-list" data-aos="fade-up">
               <h4 class="single-blog-title">{title}</h4>
               <p class="single-blog-desp">{description}</p>
-             
               <div class="ak-height-50 ak-height-lg-50"></div>
-            </div>
+            </div> */}
             {services?.map((service, index) => (
               <div class="single-blog-list" data-aos="fade-up">
                 <h4 class="single-blog-title">

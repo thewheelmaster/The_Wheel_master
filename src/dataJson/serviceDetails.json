@@ -7,44 +7,44 @@
 
       "services": [
         {
-          "title": "Assessment",
-          "description": "Technicians evaluate the damage for a precise plan."
+          "title": "Wheel Straightening",
+          "description": "Bent rims not only hurt aesthetics but can compromise safety, affecting tire life, fuel efficiency, and steering precision. Our precision straightening process restores both form and performance."
         },
         {
-          "title": "Quoting",
-          "description": "Transparent pricing and timelines provided upfront."
+          "title": "Cosmetic Repairs",
+          "description": "Minor curbing or scratches? Our cosmetic repair techniques focus on minimizing treatment area to reduce cost and time—without compromising quality."
         },
         {
-          "title": "Restoration",
-          "description": "Following the systematic process under expert care."
+          "title": "Complete Refurbishment",
+          "description": "For wheels with deeper damage, metal loss, or coating wear, we perform full refurbishment: strip, wet blast, repair, prime, paint, clear coat—bringing back manufacturer-quality finish. Average turnaround: 3 working days, extended if structural repairs are needed after inspection."
         },
         {
-          "title": "Quality Check",
-          "description": "Final inspections ensure durability and finish."
+          "title": "Diamond Cutting",
+          "description": "Achieve that premium, reflective finish only possible via precise lathing. Note: diamond-cut surfaces can only be redone a limited number of times."
         },
-         {
-          "title": "Delivery",
-          "description": "Wheels are remounted, balanced, and returned; corporate pick-up/drop-off available on request."
+        {
+          "title": "Wheel Personalization",
+          "description": "Upgrade your look with color-matched wheels, custom tones, finishes, pinstriping, or detailed wheel pockets."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Assessment & Quote",
+        "description": "We examine your wheel for structural issues, damage, or suitability for refurbishment.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Detailed Process",
+        "description": "Removing tires, weights, decals — followed by stripping, blasting, repairing, painting, coating, balancing, and final inspection.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Delivery or Pickup",
+        "description": "Quick turnaround (typically within 3 days). We offer pickup/drop-off for corporate clients for added convenience.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -52,44 +52,48 @@
   {
     "id": 2,
     "service_details": {
-      "title": "AutoCare Solutions - Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Crack or Bend Repair",
+      "description": "At The Wheel Master, we specialize in professional alloy wheel crack and bend repairs, ensuring your wheels are structurally sound, safe, and road-ready. Damaged wheels not only spoil the look of your vehicle but also pose serious safety risks—impacting handling, tire wear, and even fuel efficiency. Our expert team uses advanced repair techniques and state-of-the-art equipment to restore your wheels back to perfect condition.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Inspection & Diagnosis",
+          "description": "Every wheel undergoes a thorough inspection to identify the severity of cracks, bends, or buckles."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Straightening",
+          "description": "Using specialist hydraulic and heat treatment equipment, we carefully straighten bent rims while maintaining structural integrity."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Crack Welding & Reinforcement",
+          "description": "Cracks are welded using high-quality materials and precision techniques to restore strength."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Refinishing (Optional)",
+          "description": "After the repair, we can blend the treated area with cosmetic refurbishment or a complete respray for a flawless finish."
+        },
+        {
+          "title": "Final Safety Check",
+          "description": "Each wheel is balanced, aligned, and checked against safety standards before being returned to you."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Enhanced Safety",
+        "description": "Cracks or bends compromise the structural integrity of your wheels, risking blowouts or poor handling.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Cost-Effective Solution",
+        "description": "Repairing a cracked or bent wheel is far more affordable than replacing it.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Eco-Friendly Choice",
+        "description": "Extends the life of your existing wheels, reducing waste.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -97,44 +101,44 @@
   {
     "id": 3,
     "service_details": {
-      "title": "AutoCare Solutions - Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "CNC Diamond Finish - The Ultimate Premium Alloy Wheel Look",
+      "description": "At The Wheel Master, we specialize in delivering the flawless CNC Diamond Cut Finish—a premium treatment that gives your alloy wheels a sleek, polished, and high-end appearance. Using advanced CNC (Computer Numerical Control) lathes, our skilled technicians achieve a highly reflective, precision-cut surface that makes your wheels look as good as (or better than) new.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Wheel Preparation",
+          "description": "Tyres, weights, and valves are removed before stripping and cleaning."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Initial Inspection",
+          "description": "Wheels are checked for bends, cracks, or damage (repaired if necessary)."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "CNC Lathe Cutting",
+          "description": "A thin surface layer is removed with precision diamond-tipped tools."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Protective Coating",
+          "description": "A durable clear coat is applied to preserve the shine and guard against corrosion."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Showroom-Quality Shine",
+        "description": "Achieves a finish comparable to brand-new premium wheels.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Unique Aesthetic",
+        "description": "Distinctive two-tone or polished-metal effect for a luxurious style.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Precision Workmanship",
+        "description": "Advanced CNC lathes ensure millimeter-perfect accuracy.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -142,44 +146,44 @@
   {
     "id": 4,
     "service_details": {
-      "title": "AutoCare Solutions - Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Wheel Straightening - Restoring Balance. Restoring Safety",
+      "description": "At The Wheel Master, we offer professional alloy wheel straightening services to repair bent, buckled, or distorted wheels. Even a slight bend in your rim can cause vibrations, uneven tire wear, poor handling, and—most importantly—compromise your safety on the road. Our expert technicians use specialized hydraulic and heat treatment equipment to restore your wheels to their original shape, ensuring smooth performance and long-term durability.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Inspection & Diagnosis",
+          "description": "Each wheel is thoroughly examined to identify flat spots, buckles, or out-of-round areas."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Precision Straightening",
+          "description": "Using advanced hydraulic rollers and heat treatment (where required), we gently restore the wheel to its factory shape without compromising structural integrity."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Safety Verification",
+          "description": "Every repaired wheel is tested for balance, roundness, and strength to ensure it meets road safety standards."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Optional Refinishing",
+          "description": "If your wheel also has scratches, corrosion, or cosmetic damage, we can combine straightening with refurbishment for a complete restoration."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Improved Safety",
+        "description": "A bent wheel can lead to unpredictable handling, tire blowouts, or braking issues.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Cost Savings",
+        "description": "Repairing your wheel is far more affordable than replacing it.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Extended Tire Life",
+        "description": "Straight wheels ensure even tire wear, saving you money in the long run.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -187,44 +191,44 @@
   {
     "id": 5,
     "service_details": {
-      "title": "AutoCare Solutions - Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Cosmetic Repair - Small Damage. Big Difference.",
+      "description": "At The Wheel Master, we specialize in quick and effective cosmetic alloy wheel repairs that restore your wheels to a near-perfect condition without the need for full refurbishment. From light scuffs and scratches to minor curb rash, our cosmetic repair service is designed to save you time and money while keeping your wheels looking sharp.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Damage Assessment",
+          "description": "We inspect the wheel to confirm if cosmetic repair is suitable (for light to moderate surface damage)."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Surface Preparation",
+          "description": "The damaged area is cleaned, sanded, and primed to ensure smooth application."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Paint & Color Matching",
+          "description": "Using precision color-matching techniques, we repaint the affected area to blend seamlessly with the existing wheel finish."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Clear Coat Application",
+          "description": "A protective lacquer is applied to restore shine and shield against future wear."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Fast Turnaround",
+        "description": "Most cosmetic jobs are completed within a few hours.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Cost-Effective",
+        "description": "Only the affected area is treated, so you avoid the cost of a full refurbishment.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Like-New Finish",
+        "description": "Scuffs, chips, and scratches are seamlessly blended with the rest of the wheel.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -232,44 +236,44 @@
   {
     "id": 6,
     "service_details": {
-      "title": "AutoCare Solutions - Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Wheel Personalization - Make Your Wheels Truly Yours",
+      "description": "At The Wheel Master, we offer wheel personalization services to help you express your style while maintaining performance and safety. From custom colors to unique finishes, pinstriping, and specialized coatings, our expert team transforms your wheels into a statement of individuality.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Consultation & Design",
+          "description": "Discuss your vision and select colors, finishes, or designs."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Surface Preparation",
+          "description": "Wheels are cleaned, stripped, and primed for the perfect finish."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Application",
+          "description": "Paints, coatings, and designs are applied with precision."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Curing & Finishing",
+          "description": "Layers are baked or cured for durability, then polished to perfection."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Steering Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Custom Colors & Finishes",
+        "description": "Choose from a wide range of colors, metallics, or matte finishes. Our color-matching technology ensures your wheels achieve the exact shade you want.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Pinstriping & Design Accents",
+        "description": "Add subtle or bold lines, logos, or patterns for a personalized touch that makes your wheels one-of-a-kind.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Two-Tone & Multi-Finish Wheels",
+        "description": "Combine finishes like gloss and matte, or diamond-cut faces with painted interiors, for a premium, eye-catching effect.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -277,89 +281,83 @@
   {
     "id": 7,
     "service_details": {
-      "title": "Heating Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Wheel Alignment & Balancing - Drive Smooth. Drive Safe.",
+      "description": "At The Wheel Master, we provide professional wheel alignment and balancing services to ensure your vehicle runs smoothly, safely, and efficiently. Misaligned or unbalanced wheels don’t just affect comfort—they reduce fuel efficiency, cause uneven tire wear, and compromise handling. Our expert team uses advanced alignment systems and precision balancing equipment to restore your car’s performance.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Inspection",
+          "description": "Checking tires, suspension, and wheel condition."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Computerized Alignment",
+          "description": "Using advanced equipment for millimeter-perfect adjustments."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Precision Balancing",
+          "description": "Adding calibrated weights to balance wheel and tire assemblies."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Final Test",
+          "description": "Road test or spin balancing to ensure accuracy and performance."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Wheel Alignment",
+        "description": "We adjust your vehicle’s wheel angles—camber, caster, and toe—to meet manufacturer specifications. This ensures the wheels are perfectly aligned with each other and the road.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Wheel Balancing",
+        "description": "Weights are carefully added to correct any imbalance in your wheels and tires, ensuring even weight distribution for a smooth, vibration-free ride.",
         "icon": "/assets/img/icon/service-icon-2.svg"
-      },
-      {
-        "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
   },
   {
     "id": 9,
     "service_details": {
-      "title": "Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Alloy Wheel Health Check-Up and Service",
+      "description": "Your alloy wheels go through a lot on the road — from potholes and bumps to daily wear and tear. Even if your wheels look fine on the outside, hidden issues like minor cracks, bends, or alignment problems can compromise safety, reduce performance, and shorten the lifespan of your alloys. Our Alloy Wheel Health Check-Up and Service is designed to detect problems early and keep your wheels in top condition.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Structural Integrity",
+          "description": "Detecting cracks, bends, or fractures."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Wheel Alignment & Balance",
+          "description": "Ensuring proper stability and driving comfort."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Surface Condition",
+          "description": "Identifying scratches, scuffs, or corrosion."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Tyre-Wheel Fit",
+          "description": "Checking for proper sealing and air leaks."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Safety First",
+        "description": "Small cracks or hidden damage can lead to dangerous wheel failures if left untreated.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Prevent Costly Repairs",
+        "description": "Early detection helps avoid extensive refurbishments or replacements.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Improved Performance",
+        "description": "Ensures your car runs smoothly with proper balance and alignment.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
@@ -367,44 +365,44 @@
   {
     "id": 8,
     "service_details": {
-      "title": "AutoCare Solutions - Tire Services",
-      "description": "At AutoCare Solutions, we understand that your tires are a critical component of your vehicle's performance, safety, and overall driving experience. Our tire services are designed to ensure that your tires are in optimal condition, providing you with the traction, handling, and comfort you deserve. Explore our comprehensive tire services below:",
+      "title": "Brake Caliper Painting",
+      "description": "Your wheels deserve more than just performance – they deserve style. At The Wheel Master, we offer professional Brake Caliper Painting services that give your vehicle a sporty, premium, and customized look while also protecting your calipers from dust, rust, and corrosion.",
       "services": [
         {
-          "title": "Tire Rotation",
-          "description": "Regular tire rotation is essential for even tread wear and longevity. Our technicians will rotate your tires according to your vehicle's specifications, promoting balanced wear patterns and extending the life of your tires."
+          "title": "Thorough Cleaning",
+          "description": "We start by carefully cleaning and preparing your brake calipers to remove dirt, grease, and rust."
         },
         {
-          "title": "Tire Balancing",
-          "description": "Imbalanced tires can lead to uneven wear, vibrations, and handling issues. Our precision tire balancing services ensure that each tire and wheel assembly is balanced, enhancing your vehicle's ride comfort and overall performance."
+          "title": "Masking & Protection",
+          "description": "All surrounding areas are masked to prevent overspray, ensuring a clean finish."
         },
         {
-          "title": "Wheel Alignment",
-          "description": "Proper wheel alignment is crucial for maintaining vehicle stability and preventing uneven tire wear. Our advanced alignment equipment and skilled technicians will ensure that your wheels are aligned to manufacturer specifications."
+          "title": "Premium Heat-Resistant Paint",
+          "description": "We use high-quality, heat-resistant paints that withstand extreme temperatures and maintain their shine."
         },
         {
-          "title": "Tire Repair",
-          "description": "If you've experienced a flat tire or puncture, our tire repair services are here to help. We'll assess the damage and, when possible, perform a professional repair to get you back on the road safely."
+          "title": "Custom Finish Options",
+          "description": "Choose from a wide range of colors and finishes, from glossy red and metallic gold to matte black or custom shades."
         }
       ]
     },
     "similar_services": [
       {
         "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Enhanced Aesthetics",
+        "description": "Brake caliper painting instantly upgrades the visual appeal of your wheels, giving your car a sportier, premium look.",
         "icon": "/assets/img/icon/service-icon-1.svg"
       },
       {
         "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Corrosion Protection",
+        "description": "The specialized high-heat paint protects calipers from rust, dirt, and road grime, increasing their lifespan.",
         "icon": "/assets/img/icon/service-icon-2.svg"
       },
       {
         "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "title": "Customization",
+        "description": "You can personalize your car’s style with colors that match or contrast your wheels, making your vehicle stand out.",
         "icon": "/assets/img/icon/service-icon-3.svg"
       }
     ]
