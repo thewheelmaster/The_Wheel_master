@@ -16,22 +16,26 @@ const footerDataArray = [
     dataAosDelay: "50",
     links: [
       { title: "About", link: "/about" },
-      { title: "Service", link: "/service" },
       // { title: "Pricing", link: "/pricing" },
       // { title: "Team", link: "/team" },
       { title: "Contact Us", link: "/contact" },
     ],
   },
-  // {
-  //   className: "footer-menu-two",
-  //   dataAosDelay: "100",
-  //   links: [
-  //     { title: "Appointment", link: "/appointment" },
-  //     { title: "Blog / News", link: "/blog" },
-  //     { title: "FA Question", link: "/faq" },
-  //     { title: "Team", link: "/team" },
-  //   ],
-  // },
+  {
+    className: "footer-menu-two",
+    dataAosDelay: "100",
+    links: [
+      { title: "Alloy wheel restoration/ Refurbishment", link: "/service-single/1" },
+      { title: "Crack or bend Repair", link: "/service-single/2" },
+      { title: "CNC Diamond finish", link: "/service-single/3" },
+      { title: "Wheel Straightening", link: "/service-single/4" },
+      { title: "Cosmetic Repair", link: "/service-single/5" },
+      { title: "Wheel Personalization", link: "/service-single/6" },
+      { title: "Wheel Alignment/Balancing", link: "/service-single/7" },
+      { title: "Alloy wheel health check up and Service", link: "/service-single/9" },
+       { title: "Break Calliper Painting", link: "/service-single/8" },
+    ],
+  },
   {
     className: "footer-address",
     dataAosDelay: "150",
@@ -193,7 +197,7 @@ const Footer = () => {
                           alt="Calendar"
                         />
                       </span>
-                      Sun - Thu: Open 24/7
+                      Monday to Saturday - 10 to 7:30 pm
                     </p>
                   </div>
                 )}
