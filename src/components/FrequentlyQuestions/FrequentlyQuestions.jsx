@@ -8,7 +8,7 @@ const contactDetails = {
   phone: "(406) 555-0120",
   email: "example@email.com",
   address: "901 N Pitt Str., Suite 170, Alexandria, NY, USA",
-  workingHours: "Sun - Thu: Open 24/7",
+  workingHours: "Monday to Saturday - 10 am to 7:30 pm",
 };
 
 const FrequentlyQuestions = () => {

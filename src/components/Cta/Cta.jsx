@@ -5,7 +5,7 @@ import { CtaBtn } from "../Button/Button";
 const ctaData = {
   title: "Get in touch with our experts",
   description:
-    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    "Your wheels are more than just a part of your vehicle—they reflect your style and your drive. Let us help you keep them at their best. 📞 Contact us today to learn more or book your wheel restoration service.",
 };
 
 const Cta = () => {

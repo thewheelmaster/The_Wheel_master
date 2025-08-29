@@ -7,8 +7,8 @@ import footerLogo from "/assets/img/Untitled design (25).png";
 const footerDataArray = [
   {
     className: "footer-info",
-    dataAosDelay: "0",
-    phone: "+91922846870",
+    // dataAosDelay: "0",
+    phone: "9228468709",
     desp: "Whether you're looking for a cosmetic uplift or need an urgent repair – we're just one call away.",
   },
   {
@@ -16,22 +16,26 @@ const footerDataArray = [
     dataAosDelay: "50",
     links: [
       { title: "About", link: "/about" },
-      { title: "Service", link: "/service" },
       // { title: "Pricing", link: "/pricing" },
       // { title: "Team", link: "/team" },
       { title: "Contact Us", link: "/contact" },
     ],
   },
-  // {
-  //   className: "footer-menu-two",
-  //   dataAosDelay: "100",
-  //   links: [
-  //     { title: "Appointment", link: "/appointment" },
-  //     { title: "Blog / News", link: "/blog" },
-  //     { title: "FA Question", link: "/faq" },
-  //     { title: "Team", link: "/team" },
-  //   ],
-  // },
+  {
+    className: "footer-menu-two",
+    dataAosDelay: "100",
+    links: [
+      { title: "Alloy wheel restoration/ Refurbishment", link: "/service-single/1" },
+      { title: "Crack or bend Repair", link: "/service-single/2" },
+      { title: "CNC Diamond finish", link: "/service-single/3" },
+      { title: "Wheel Straightening", link: "/service-single/4" },
+      { title: "Cosmetic Repair", link: "/service-single/5" },
+      { title: "Wheel Personalization", link: "/service-single/6" },
+      { title: "Wheel Alignment/Balancing", link: "/service-single/7" },
+      { title: "Alloy wheel health check up and Service", link: "/service-single/9" },
+       { title: "Break Calliper Painting", link: "/service-single/8" },
+    ],
+  },
   {
     className: "footer-address",
     dataAosDelay: "150",
@@ -141,14 +145,14 @@ const Footer = () => {
                     <div className="ak-height-35 ak-height-lg-30"></div>
                     <div className="d-flex align-items-center gap-3">
                       <div className="heartbeat-icon">
-                        <Link to="tel:+91922846870">
+                        <Link to="tel:+919228468709">
                           <span className="ak-heartbeat-btn">
                             <img src="/assets/img/icon/phone.svg" alt="..." />
                           </span>
                         </Link>
                       </div>
                       <TextAnimation
-                        link={"tel:+91922846870"}
+                        link={"tel:+919228468709"}
                         title={item.phone}
                         classNamePass="phone white"
                       />
@@ -193,7 +197,7 @@ const Footer = () => {
                           alt="Calendar"
                         />
                       </span>
-                      Sun - Thu: Open 24/7
+                      Monday to Saturday - 10 to 7:30 pm
                     </p>
                   </div>
                 )}
@@ -207,14 +211,8 @@ const Footer = () => {
               Copyright 2024, All Right reserved
             </p>
             <div className="social-icon">
-              <Link to="https://www.facebook.com/">
-                <img src="/assets/img/icon/facebookicon.svg" alt="..." />
-              </Link>
-              <Link to="https://www.linkedin.com/">
-                <img src="/assets/img/icon/linkedinicon.svg" alt="..." />
-              </Link>
-              <Link to="https://www.x.com/">
-                <img src="/assets/img/icon/twittericon.svg" alt="..." />
+              <Link to="https://www.instagram.com/the_wheelmaster">
+                <img src="/assets/img/icon/instagramicon.svg" alt="..." />
               </Link>
             </div>
           </div>

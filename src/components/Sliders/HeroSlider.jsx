@@ -174,26 +174,13 @@ const HeroSlider = () => {
               <img src="/assets/img/icon/hero-time.svg" alt="..." />
             </div>
             <p className="ak-font-18 ak-white-color ak-semi-bold">
-              Sun - Thu: Open 24/7
+              Monday to Saturday - 10 to 7:30 pm
             </p>
           </div>
         </div>
       </div>
       <div className="hero-pagination">
         <div className="hero-swiper-pagination"></div>
-      </div>
-      <div className="social-hero">
-        <Link to="https://www.x.com/" className="social-icon1">
-          <img src="/assets/img/icon/twiter.svg" alt="twitericon" />
-        </Link>
-        <Link to="https://www.facebook.com/" className="social-icon1">
-          <img src="/assets/img/icon/facebook.svg" alt="twitericon" />
-        </Link>
-        <Link to="https://www.linkedin.com/" className="social-icon1">
-          <img src="/assets/img/icon/linkedin.svg" alt="twitericon" />
-        </Link>
-        <div className="social-horizontal"></div>
-        <h6 className="social-link">FOLLOW US</h6>
       </div>
     </section>
   );

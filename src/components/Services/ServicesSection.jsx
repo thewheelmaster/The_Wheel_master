@@ -78,7 +78,7 @@ const ServicesSection = ({ styleTypeTwo }) => {
                 bgText={"Services"}
                 title={"What We Offer"}
                 desp={
-                  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industr sstan. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum."
+                  "We provide professional brake caliper painting using high-temperature, durable coatings that not only protect against rust and wear but also add a sleek, customized look to your vehicle. Choose from a wide range of colors to match your style and give your wheels a premium finish."
                 }
               />
               <div className="ak-height-50 ak-height-lg-10"></div>

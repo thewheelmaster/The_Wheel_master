@@ -3,19 +3,20 @@ import SectionHeading from "../SectionHeading/SectionHeading";
 import { ButtonCommon } from "../Button/Button";
 
 const chooseUsData = {
-  bgText: "Feature",
-  title: "why Choose The Wheel Master",
-  desp: "At The Wheel Master, your wheels are in expert hands. With over 22 years of experience in the automotive industry and more than 10 years of specialized expertise in alloy wheel repair abroad, our founder brings unmatched knowledge, precision, and passion to every project.",
-  img: "/assets/img/mechanic-repairing-car-tyre.jpg",
+  bgText: "Built Different",
+  title: "What Sets Us Apart",
+  desp: "With over 22 years in the automotive industry and 10+ years of international expertise in alloy wheel repair, The Wheel Master delivers world-class quality, precision, and lasting results. We restore not just your wheels, but also your confidence on the road.",
+  img: "/assets/img/service/IMG20250826131153.jpg",
   list: [
-    { title: "Expert Technicians: Skilled in high-precision alloy repairs" },
-    { title: "Free Pickup & Drop: For Ahmedabad customers" },
-    { title: "Advanced Equipment: CNC Diamond Cutting, Balancing & Alignment" },
-    { title: "Customer Satisfaction: Trusted by 1000+ car lovers & garages" },
+    { title: "Decades of Experience: A strong foundation in the automotive sector ensures we know your vehicle inside out." },
+    { title: "Specialized Expertise: 10+ years dedicated exclusively to alloy wheel refurbishment and cosmetic repair." },
+    { title: "Global Exposure: Knowledge and practices perfected abroad, now brought to India." },
+    { title: "Quality First Approach : Only the best materials, tools, and techniques are used to restore your wheels." },
+    { title: "Customer-Centric Service : Transparent, professional, and focused on your satisfaction." },
   ],
 };
 
-const ChooseUs = () => {
+const WhatSetUsApart = () => {
   const { bgText, title, desp, list, img } = chooseUsData;
 
   return (
@@ -40,13 +41,13 @@ const ChooseUs = () => {
             <div className="ak-height-60 ak-height-lg-30"></div>
             <ButtonCommon to="/about"> View More</ButtonCommon>
           </div>
-          <div
+        <div
           style={{borderRadius:'5px'}}
             className="choose-us-img m-auto"
             data-aos="fade-up"
-            data-aos-delay="150"
+            data-aos-delay="100"
           >
-            <img style={{border:'1px solid white', borderRadius:'10px'}} width={300} src={img} alt="..." />
+            <img style={{ border: '1px solid white', borderRadius: '10px' }} width={500} src={img} alt="..." />
           </div>
         </div>
       </div>
@@ -54,4 +55,4 @@ const ChooseUs = () => {
   );
 };
 
-export default ChooseUs;
+export default WhatSetUsApart;
