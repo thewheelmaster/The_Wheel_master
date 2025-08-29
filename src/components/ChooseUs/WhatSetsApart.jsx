@@ -6,7 +6,7 @@ const chooseUsData = {
   bgText: "Built Different",
   title: "What Sets Us Apart",
   desp: "With over 22 years in the automotive industry and 10+ years of international expertise in alloy wheel repair, The Wheel Master delivers world-class quality, precision, and lasting results. We restore not just your wheels, but also your confidence on the road.",
-  img: "/assets/img/mechanic-repairing-car-tyre.jpg",
+  img: "/assets/img/service/IMG20250826131153.jpg",
   list: [
     { title: "Decades of Experience: A strong foundation in the automotive sector ensures we know your vehicle inside out." },
     { title: "Specialized Expertise: 10+ years dedicated exclusively to alloy wheel refurbishment and cosmetic repair." },
@@ -45,9 +45,9 @@ const WhatSetUsApart = () => {
           style={{borderRadius:'5px'}}
             className="choose-us-img m-auto"
             data-aos="fade-up"
-            data-aos-delay="150"
+            data-aos-delay="100"
           >
-            <img style={{ border: '1px solid white', borderRadius: '10px' }} width={300} src={img} alt="..." />
+            <img style={{ border: '1px solid white', borderRadius: '10px' }} width={500} src={img} alt="..." />
           </div>
         </div>
       </div>
