@@ -3,29 +3,45 @@ import AccordionItem from "./AccordionItem";
 
 const faqItems = [
   {
-    title: "What services do you offer at your auto repair shop?",
+    title: "How long does alloy wheel refurbishment or repair take?",
     content:
-      "Yes, we provide a warranty on our auto repairs. Please contact us for more details.",
+      "Most standard repairs or refurbishments take between 24–48 hours, depending on the level of damage and the finish you choose. Some cosmetic touch-ups may be completed the same day.",
   },
   {
-    title: "How often should I get my car serviced?",
+    title: "Can you repair cracked or bent alloy wheels?",
     content:
-      "It is recommended to service your car every 5,000 to 7,500 miles, or as specified in your vehicle’s manual.",
+      "Yes, we specialize in crack welding and wheel straightening. Our technicians inspect the wheel thoroughly and carry out safe and effective repairs to restore its strength and balance.",
   },
   {
-    title: "How do I know if my brakes need to be replaced?",
+    title:
+      "Will my wheels look brand new after CNC Diamond Cutting or Painting?",
     content:
-      "If you hear a squealing noise, feel vibrations, or notice that it takes longer to stop, it may be time to replace your brakes.",
+      "Absolutely! With CNC diamond cutting, brake caliper painting, or cosmetic refinishing, your wheels can look as good as new — often better, with a showroom-quality finish.",
   },
   {
-    title: "What steps can I take between services?",
+    title: "Is it safe to drive with a bent or cracked alloy wheel?",
     content:
-      "Regularly check tire pressure, oil levels, and keep the car clean. Ensure timely maintenance as per the vehicle’s manual.",
+      "No, it’s not recommended. A damaged wheel can affect handling, cause vibrations, and even risk tyre blowouts. We advise getting your wheels inspected immediately.",
   },
   {
-    title: "Do you provide warranty on your auto repairs?",
+    title: "Do you offer wheel alignment and balancing?",
     content:
-      "Yes, we provide a warranty on our auto repairs. Please contact us for more details.",
+      "Yes. Proper alignment and balancing ensure smooth driving, longer tyre life, and improved fuel efficiency. We recommend having this checked regularly or after any wheel repairs.",
+  },
+  {
+    title: "Can I choose custom colors and finishes for my wheels or calipers?",
+    content:
+      "Definitely! We offer a wide range of colors, finishes, and personalization options, from glossy black and matte finishes to bold, custom shades.",
+  },
+  {
+    title: "How often should I get an alloy wheel health check-up?",
+    content:
+      "We recommend a health check every 6–12 months or sooner if you frequently drive on rough roads. Preventive checks help spot cracks, bends, or corrosion early.",
+  },
+  {
+    title: "Do you provide a warranty on your repairs?",
+    content:
+      "Yes, all our services come with a warranty for workmanship and finish, giving you complete peace of mind.",
   },
 ];
 

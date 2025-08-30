@@ -5,9 +5,9 @@ import accordionImg from "/assets/img/accordion-side-img.jpg";
 
 const contactDetails = {
   title: " Frequently Asked Questions",
-  phone: "(406) 555-0120",
-  email: "example@email.com",
-  address: "901 N Pitt Str., Suite 170, Alexandria, NY, USA",
+  phone: "+919228468709",
+  email: "ravi@thewheelmaster.in",
+  address: "Behind Jeep Showroom, Sanathal Circle, Ahmedabad, Gujarat, 382210",
   workingHours: "Monday to Saturday - 10 am to 7:30 pm",
 };
 

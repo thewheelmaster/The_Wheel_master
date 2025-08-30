@@ -54,12 +54,12 @@ const ServicesDetailContent = ({ service }) => {
                       {similar_item.title}
                     </Link>
                     <p className="desp">{similar_item.description}</p>
-                    <MoreBtn
+                    {/* <MoreBtn
                       to={`/service-single/${similar_item.id}`}
                       className="more-btn"
                     >
                       VIEW MORE
-                    </MoreBtn>
+                    </MoreBtn> */}
                   </div>
                 </div>
               ))}

@@ -42,7 +42,7 @@ const WhatSetUsApart = () => {
             <ButtonCommon to="/about"> View More</ButtonCommon>
           </div>
         <div
-          style={{borderRadius:'5px'}}
+          style={{ borderRadius: '5px' }}
             className="choose-us-img m-auto"
             data-aos="fade-up"
             data-aos-delay="100"
