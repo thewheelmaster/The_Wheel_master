@@ -18,7 +18,7 @@ const sliderData = [
     title: "Revive Your Rims ",
     maintitle: "with Precision",
     desp: "Premium Alloy Wheel Restoration, Diamond Cut CNC Finish & More in Ahmedabad",
-    url: "/appointment",
+    url: "/contact",
     img: "/assets/img/ss/Screenshot (47).png",
   },
   // {
