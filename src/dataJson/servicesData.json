@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "img": "/assets/img/service/close-up-man-cleaning-car-rims.jpg",
+    "img": "/assets/img/service/colour-change-and-repair.jpg",
     "title": "Alloy Wheel Refurbishment",
     "desp": "Restore your scratched, oxidized, or dull wheels back to showroom condition. We strip, clean, repair, and repaint to match your original or custom look."
   },
   {
     "id": 2,
-    "img": "/assets/img/ss/Screenshot (44).png",
+    "img": "/assets/img/service/bent repair.jpg",
     "title": "Crack or Bend Repair",
     "desp": "Hit a pothole or curb? We use hydraulic straightening and welding methods to fix minor cracks and bends, ensuring safety and roadworthiness."
   },
@@ -19,13 +19,13 @@
   },
   {
     "id": 4,
-    "img": "/assets/img/service/Wheel_straigthener_repair_process.webp",
+    "img": "/assets/img/service/wheelperson.jpg",
     "title": "Wheel Straightening",
     "desp": "Bent rims can cause vibrations and tire damage. We accurately straighten wheels to factory spec without compromising structure."
   },
   {
     "id": 5,
-    "img": "/assets/img/service/service_5.jpg",
+    "img": "/assets/img/service/cosmeticrepair.jpg",
     "title": "Cosmetic Repair",
     "desp": "From curb rash to deep scuffs, we sand, fill, and repaint affected areas to make the damage vanish completely."
   },
@@ -49,7 +49,7 @@
   },
   {
     "id": 9,
-    "img": "/assets/img/service/mechanic-changing-brake-discs-car-service.jpg",
+    "img": "/assets/img/service/brakecaliper.jpg",
     "title": "Break Calliper Painting",
     "desp": "At The Wheel Master, we believe even the smallest details matter. With our Brake Caliper Painting service, your wheels won’t just perform – they’ll stand out."
   }

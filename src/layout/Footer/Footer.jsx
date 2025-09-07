@@ -127,7 +127,7 @@ const Footer = () => {
           <div className="primary-color-border"></div>
           <div className="ak-height-35 ak-height-lg-30"></div>
           <div className="footer-logo">
-            <img src={footerLogo} alt="footer-logo" />
+            <img width={400} src={footerLogo} alt="footer-logo" />
             <div className="ak-height-15 ak-height-lg-10"></div>
           </div>
           <div className="footer-content">

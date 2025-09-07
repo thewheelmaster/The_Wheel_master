@@ -78,7 +78,7 @@ const ServicesSection = ({ styleTypeTwo }) => {
                 bgText={"Services"}
                 title={"What We Offer"}
                 desp={
-                  "We provide professional brake caliper painting using high-temperature, durable coatings that not only protect against rust and wear but also add a sleek, customized look to your vehicle. Choose from a wide range of colors to match your style and give your wheels a premium finish."
+                  "At The Wheel Master, we provide complete solutions for alloy wheel restoration and care. Whether your wheels are scratched, bent, corroded, or simply need a fresh new look, our team uses advanced techniques and international expertise to bring them back to life."
                 }
               />
               <div className="ak-height-50 ak-height-lg-10"></div>
