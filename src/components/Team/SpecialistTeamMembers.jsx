@@ -34,7 +34,7 @@ const SpecialistTeamMembers = ({ team }) => {
       <div className="d-flex justify-content-center">
         <div className="sticky-content container">
           <div className="content style_2">
-            <div className="service">
+            <div style={{ marginTop: "200px" }} className="service">
               {speciaList.map((item) => (
                 <div
                   className="service-card"

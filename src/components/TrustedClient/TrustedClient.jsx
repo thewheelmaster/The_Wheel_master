@@ -26,6 +26,7 @@ const TrustedClient = () => {
         <Swiper
           speed={1000}
           loop={true}
+          autoplay={true}
           slidesPerView={"auto"}
           onSwiper={(swiper) => {
             swiperRef.current = swiper;
