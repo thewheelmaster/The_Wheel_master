@@ -46,7 +46,7 @@ const ServicesSection = ({ styleTypeTwo }) => {
       <div className="d-flex justify-content-center">
         <div className="sticky-content container">
           <div className="content style_2">
-            <div className="service">
+            <div style={{ marginTop: "200px" }} className="service">
               {data.map((item) => (
                 <div
                   className="service-card"
@@ -54,7 +54,12 @@ const ServicesSection = ({ styleTypeTwo }) => {
                   key={item.id}
                 >
                   <Link to={`/service-single/${item.id}`} className="card-img">
-                    <img src={`${item.img}`} className="ak-bg" alt="..." />
+                    <img
+                      style={{ objectFit: "contain", maxHeight: "700px" }}
+                      src={`${item.img}`}
+                      className="ak-bg"
+                      alt="..."
+                    />
                   </Link>
                   <div className="card-info">
                     <Link

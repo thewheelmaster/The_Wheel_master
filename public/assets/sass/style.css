@@ -2230,6 +2230,7 @@ kbd {
   }
   .ak-main_header {
     position: relative;
+    background: rgba(0,0,0,0.6);
   }
   .ak-main_header .container-fluid {
     padding-right: 40px;
@@ -3013,9 +3014,9 @@ kbd {
 .service-card .card-img img {
   transition: all 0.5s ease-in-out;
   width: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
-  max-height: 325px;
+  -o-object-fit: c;
+  object-fit: c;
+  max-height: 700px !important;
 }
 .service-card .card-info {
   max-width: 420px;
@@ -3133,6 +3134,7 @@ kbd {
   width: 100%;
   left: 0;
   top: 0;
+  opacity: 0.5;
 }
 .ak-hero.ak-style1 .hero-slider-info {
   position: absolute;
@@ -4541,6 +4543,7 @@ kbd {
   display: flex;
   flex-direction: column;
   gap: 50px;
+  margin-top: 200px !important;
 }
 
 @media screen and (min-width: 1450px) {
@@ -4580,6 +4583,7 @@ kbd {
     display: flex;
     flex-direction: column;
     gap: 50px;
+    margin-top: 200px !important;
   }
 }
 /*--------------------------------------------------------------

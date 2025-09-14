@@ -19,7 +19,7 @@ const sliderData = [
     maintitle: "with Precision",
     desp: "Premium Alloy Wheel Restoration, Diamond Cut CNC Finish & More in Ahmedabad",
     url: "/contact",
-    img: "/assets/img/ss/Screenshot (47).png",
+    img: "/assets/img/service/WhatsApp Image 2025-09-09 at 12.16.16 PM (2).jpeg",
   },
   // {
   //   id: 3,
