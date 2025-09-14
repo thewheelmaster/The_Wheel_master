@@ -2230,6 +2230,7 @@ kbd {
   }
   .ak-main_header {
     position: relative;
+    background: rgba(0,0,0,0.6);
   }
   .ak-main_header .container-fluid {
     padding-right: 40px;
@@ -3133,6 +3134,7 @@ kbd {
   width: 100%;
   left: 0;
   top: 0;
+  opacity: 0.5;
 }
 .ak-hero.ak-style1 .hero-slider-info {
   position: absolute;

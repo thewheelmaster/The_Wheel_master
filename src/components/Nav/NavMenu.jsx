@@ -25,7 +25,7 @@ export default function NavMenu() {
   };
 
   return (
-    <div className="ak-main_header">
+    <div style={{ background: "rgba(0,0,0,0.6)" }} className="ak-main_header">
       <div className="container">
         <div className="ak-main_header_in">
           <div className="ak-main-header-left">

@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay } from "swiper/modules";
 
 const imgList = [
   "/assets/img/cars/pngwing.com (1).png",
@@ -24,9 +25,13 @@ const TrustedClient = () => {
       <div className="ak-slider ak-trusted-client-slider">
         <h4 className="title">Brands We Work</h4>
         <Swiper
+          modules={[Autoplay]}
           speed={1000}
           loop={true}
-          autoplay={true}
+          autoplay={{
+            delay: 2000, // 2 seconds
+            disableOnInteraction: false,
+          }}
           slidesPerView={"auto"}
           onSwiper={(swiper) => {
             swiperRef.current = swiper;

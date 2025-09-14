@@ -20,7 +20,7 @@ const contactData = [
   {
     label: "Open Hour",
     icon: "/assets/img/icon/date-icon.svg",
-    info: ["Mon - Sun: Open 24/7"],
+    info: ["Monday to Saturday - 10 to 7:30 pm"],
   },
 ];
 
